@@ -1,2 +1,2 @@
-# -ntegrated
+# Integrated
 Implementation of a integrated 
